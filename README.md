@@ -52,6 +52,19 @@ https://www.codewars.com/kata/throwing-darts<br>
 https://www.codewars.com/kata/matrix-addition<br>
 https://www.codewars.com/kata/sql-regex-alphanumeric-split<br>
 https://www.codewars.com/kata/sql-basics-create-a-function-dates<br>
+https://www.codewars.com/kata/sequences-and-series<br>
+https://www.codewars.com/kata/make-the-deadfish-swim<br>
+https://www.codewars.com/kata/count-the-days<br>
+https://www.codewars.com/kata/hidden-cubic-numbers<br>
+https://www.codewars.com/kata/basic-encryption<br>
+https://www.codewars.com/kata/message-from-aliens<br>
+https://www.codewars.com/kata/playing-with-passphrases<br>
+https://www.codewars.com/kata/format-words-into-a-sentence<br>
+https://www.codewars.com/kata/round-by-0-dot-5-steps<br>
+https://www.codewars.com/kata/clocky-mc-clock-face<br>
+https://www.codewars.com/kata/the-takewhile-function<br>
+https://www.codewars.com/kata/rainfall <br>
+https://www.codewars.com/kata/good-vs-evil<br>
 <b><h5>SQL</h5></b>
 https://www.codewars.com/kata/sql-statistics-min-median-max/solutions/sql<br>
 https://www.codewars.com/kata/sql-basics-group-by-day/sql<br>
