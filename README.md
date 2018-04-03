@@ -2,6 +2,8 @@
 Solving tasks on codewars.com <br>
 My current codewars rank:<br><br>
 <img src=https://www.codewars.com/users/ExceptionIn/badges/large><br><br>
+Link to my profile on codewars<br>
+https://www.codewars.com/users/ExceptionIn
 The level of tasks increases from the simplest 8kyu to the more difficult 1 kyu.<br>
 <b><h4>Links to katas in this repository:</h4></b>
 <b><h5>3kyu</h5></b>
