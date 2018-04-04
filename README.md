@@ -65,6 +65,7 @@ https://www.codewars.com/kata/clocky-mc-clock-face<br>
 https://www.codewars.com/kata/the-takewhile-function<br>
 https://www.codewars.com/kata/rainfall <br>
 https://www.codewars.com/kata/good-vs-evil<br>
+https://www.codewars.com/kata/simple-encryption-number-1-alternating-split/csharp<br>
 <b><h5>SQL</h5></b>
 https://www.codewars.com/kata/sql-statistics-min-median-max/solutions/sql<br>
 https://www.codewars.com/kata/sql-basics-group-by-day/sql<br>
