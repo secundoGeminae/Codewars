@@ -9,7 +9,7 @@ The level of tasks increases from the simplest 8kyu to the more difficult 1 kyu.
 <b><h4>Authored</h4></b>
 https://www.codewars.com/kata/5a61f333fd56cb42a2000057<br>
 <b><h4>Translations</h4></b>
-https://www.codewars.com/kata/nmea-checksum/forks/csharp<br>
+https://www.codewars.com/kata/nmea-checksum/csharp<br>
 https://www.codewars.com/kata/array-plus-array/csharp<br>
 https://www.codewars.com/kata/century-from-year/csharp<br>
 <b><h5>3kyu</h5></b>
