@@ -6,6 +6,12 @@ Link to my profile on codewars<br>
 https://www.codewars.com/users/ExceptionIn <br>
 The level of tasks increases from the simplest 8kyu to the more difficult 1 kyu.<br>
 <b><h4>Links to katas in this repository:</h4></b>
+<b><h4>Authored</h4></b>
+https://www.codewars.com/kata/5a61f333fd56cb42a2000057<br>
+<b><h4>Translations</h4></b>
+https://www.codewars.com/kata/nmea-checksum/forks/csharp<br>
+https://www.codewars.com/kata/array-plus-array/csharp<br>
+https://www.codewars.com/kata/century-from-year/csharp<br>
 <b><h5>3kyu</h5></b>
 https://www.codewars.com/kata/base64-encoding<br>
 https://www.codewars.com/kata/calculator<br>
