@@ -86,3 +86,4 @@ https://www.codewars.com/kata/sql-basics-simple-union-all<br>
 https://www.codewars.com/kata/sql-basics-monsters-using-case<br>
 https://www.codewars.com/kata/sql-basics-simple-table-totaling<br>
 https://www.codewars.com/kata/sql-basics-simple-exists<br>
+https://www.codewars.com/kata/sql-with-harry-potter-sorting-hat-comparators/sql<br>
