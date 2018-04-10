@@ -88,3 +88,4 @@ https://www.codewars.com/kata/sql-basics-simple-table-totaling<br>
 https://www.codewars.com/kata/sql-basics-simple-exists<br>
 https://www.codewars.com/kata/sql-with-harry-potter-sorting-hat-comparators/sql<br>
 https://www.codewars.com/kata/grocery-store-inventory/sql<br>
+https://www.codewars.com/kata/sql-with-sailor-moon-thinking-about-joins-dot-dot-dot/sql<br>
