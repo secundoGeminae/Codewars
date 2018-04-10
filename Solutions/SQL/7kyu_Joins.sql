@@ -1,0 +1,6 @@
+select s.senshi_name as sailor_senshi,
+       s.real_name_jpn as real_name,
+       c.name as cat,
+       sc.school
+from sailorsenshi s left join cats c on s.cat_id = c.id
+left join schools sc on s.school_id = sc.id
